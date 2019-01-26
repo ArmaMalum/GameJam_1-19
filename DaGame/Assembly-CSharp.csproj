@@ -53,6 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\_Art\Placeholder.cs" />
+     <Compile Include="Assets\_Audio\Placeholder2.cs" />
+     <Compile Include="Assets\_Materials\Placeholder3.cs" />
+     <Compile Include="Assets\_Models\Placeholder4.cs" />
      <Compile Include="Assets\_Scripts\PlayerMovement.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>F:/Game Design/Unity-Data/Repos/GameJam_1-19/DaGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
